@@ -67,40 +67,32 @@ body{
   }
   .btn-section1{
     background-color: #B48482;
-    margin-left: 25%;
-    margin-bottom: 25%;
-    width: 50%;
+    margin-left: 15%;
+
+    width: 200px;
+
     box-shadow: 4px 5px 4px rgba(0, 0, 0, 0.25);
     border-radius: 20px;
     font-family: Century;
     font-weight: bold;
-    font-size: 50%;
+  
     color: #FFF;
     max-width: 80%;
     height: 20px;
+    font-family: Century;
+    color: #FFF;
+    font-size: 18px;
+    font-weight: bold;
+    text-align: center;
+    justify-content: center;
    
 }
 
-
-
-.btn:hover{
+.btn-section1:hover{
   color: rgba(236, 214, 196, 0.53); 
   transition-duration: 0.5s;
 }
 
-.btn{
-  font-family: Century;
-  color: #FFF;
-  font-size: 12px;
-  font-weight: bold;
-  background-color: #B48482;
-  border: none;
-  border-radius: 10px;
-  max-width: 100%;
-  margin-left: 18%;
-  margin-top: 1%;
-  
-}
 
 .cabeçalho{
   background-color: white;
@@ -112,7 +104,7 @@ body{
   border-color: #A8A6A2;
   border-width: 8px;
   padding: 0.5%;
-  max-width: 400px;
+  max-width: 500px;
 
   
 }
